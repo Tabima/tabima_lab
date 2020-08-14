@@ -48,10 +48,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/tabima
+  link: http://twitter.com/tabima
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=t1P5G4QAAAAJ&hl=en
+  link: http://scholar.google.com/citations?user=t1P5G4QAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/tabima
