@@ -15,20 +15,20 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Genomics"
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "R programming"
   
 [[feature]]
   icon = "open-data"
   icon_pack = "fab"
   name = "Open Data"
   
-[[feature]]
-  icon = "dna"
-  icon_pack = "fas"
-  name = "Photography"
-
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

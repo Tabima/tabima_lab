@@ -51,7 +51,7 @@ social:
   link: http://twitter.com/tabima
 - icon: google-scholar
   icon_pack: ai
-  link: http://scholar.google.com/citations?user=t1P5G4QAAAAJ&hl=en
+  link: http://scholar.google.com/citations?user=t1P5G4QAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/tabima
