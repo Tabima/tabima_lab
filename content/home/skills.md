@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Lab Topics"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,16 +18,31 @@ subtitle = ""
   icon = "dna"
   icon_pack = "fas"
   name = "Genomics"
+  description="Basidiobolus comparative and population genomics"
+  
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "Molecular Biology"
+  description="Tools to identify novel genes in fungal species"
+  
+[[feature]]
+  icon = "frog"
+  icon_pack = "fas"
+  name = "Host-Fungal interactions"
+  description="Basidiobolus-host interactions"
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R programming"
+  description="Creation of tools for genomics in R"
   
 [[feature]]
   icon = "open-data"
-  icon_pack = "fab"
+  icon_pack = "ai"
   name = "Open Data"
+  description="Scientific reproducibility and replicability"
   
 # Uncomment to use emoji icons.
 # [[feature]]
